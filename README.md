@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi 👋, I'm Divesh
 
-<!--
-**Divesh52/Divesh52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Engineering Student  
+💻 Aspiring Software Developer  
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- Languages: C++, Python
+- Problem Solving: 500+ LeetCode problems
+- Core CS: Data Structures & Algorithms, DBMS, OS (basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Profiles
+- LeetCode: https://leetcode.com/u/Divesh52
+- GeeksforGeeks: https://www.geeksforgeeks.org/profile/diveshtju0
+- LinkedIn: https://www.linkedin.com/in/divesh-koul-ba0953289
+### 📌 Currently Working On
+- Building backend projects using Python
+- Learning Git & GitHub
+
+---
+⭐ Interested in problem-solving and currently learning to build real-world software.
